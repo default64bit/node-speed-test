@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "node index",
-    "start:dev": "nodemon index"
+    "start:dev": "nodemon index",
+    "start:cluster": "node cluster"
   },
   "author": "",
   "license": "ISC",
